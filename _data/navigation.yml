@@ -8,9 +8,6 @@ main:
   - title: "Research"
     url: /publications/
 
- # - title: "Talks"
- #   url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     
@@ -26,3 +23,5 @@ main:
   #- title: "Cat pics"
  #   url: /markdown/
 
+ # - title: "Talks"
+ #   url: /talks/    
