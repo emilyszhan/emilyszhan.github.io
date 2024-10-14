@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+
  👩🏻‍💻 I am a Ph.D. candidate in Information and Media PhD program at College of Communication Arts and Sciences, Michigan State University. 
  
  🤖 I study the **psychological processes** of AI agents and AI-mediated messages in terms of **how people understand AI socially**. 
