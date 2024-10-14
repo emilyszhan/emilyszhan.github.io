@@ -20,9 +20,9 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
-  - title: "Cat pics"
-    url: /markdown/
+  #- title: "Cat pics"
+ #   url: /markdown/
 
