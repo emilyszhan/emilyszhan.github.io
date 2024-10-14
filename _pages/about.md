@@ -9,7 +9,7 @@ redirect_from:
 
 
 
- 👩🏻‍💻 I am a Ph.D. candidate in Information and Media PhD program at College of Communication Arts and Sciences, Michigan State University. 
+ 👩🏻‍💻 I am a Ph.D. candidate in the Information and Media PhD program at Michigan State University's College of Communication Arts and Sciences. 
  
  🤖 I study the **psychological processes** of AI agents and AI-mediated messages in terms of **how people understand AI socially**. 
  
@@ -17,7 +17,7 @@ redirect_from:
  
  📱 A broader scope of her study contexts encompasses social media user behavior, crisis communication, civic participation, digital application design, and gender-focused advertising content. 
  
- 💡 My research adopts a diverse range of methodology, such as experiments, surveys, computational, and mixed-method approaches. 
+ 💡 My research adopts a diverse range of methodologies, such as experiments, surveys, computational, and mixed-method approaches. 
 
 #💼 I am on the job market this academic year!
-I have looking for tenure-track assistant professor position in emerging media & technology, AI-human communication, strategic communication, media psychology, etc. 
+I am looking for a tenure-track assistant professor position in emerging media and technology, AI-human communication, strategic communication, media psychology, etc. 
