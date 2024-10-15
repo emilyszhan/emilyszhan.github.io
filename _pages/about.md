@@ -20,5 +20,6 @@ redirect_from:
  
  💡 My research adopts a diverse range of methodologies, such as experiments, surveys, computational, and mixed-method approaches. 
 
-#💼 I am on the job market this academic year!
+# 💼 I am on the job market this academic year!
 I am looking for a tenure-track assistant professor position in emerging media and technology, AI-human communication, strategic communication, media psychology, etc. 
+
