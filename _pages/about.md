@@ -14,9 +14,9 @@ redirect_from:
  
  🤖 I study the **psychological processes** of AI agents and AI-mediated messages in terms of **how people understand AI socially**. 
  
- 🏙️ My research informs the effects of AI use and, more importantly, how to communicate about using AI to designers and social entities that deploy AI (e.g., companies and governments). 
+ 🏙️ My research informs how to communicate about using AI (e.g., interface design, accessibility cues) to designers and social entities that deploy AI (e.g., companies and governments). 
  
- 📱 A broader scope of her study contexts encompasses social media user behavior, crisis communication, civic participation, digital application design, and gender-focused advertising content. 
+ 📱 A broader scope of my study contexts encompasses social media user behavior, crisis communication, civic participation, digital application design, and gender-focused advertising content. 
  
  💡 My research adopts a diverse range of methodologies, such as experiments, surveys, computational, and mixed-method approaches. 
 
