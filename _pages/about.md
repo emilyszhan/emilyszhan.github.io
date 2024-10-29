@@ -17,3 +17,4 @@ I am looking for a tenure-track assistant professor position in emerging media a
 
 ## ✈️ Attending
 $\color{rgba(255,0,0, 0.4)}{\textsf{Aug 8-11, 2024.}}$ AEJMC, Philadelphia, US. 
+==Aug 8-11, 2024.== AEJMC, Philadelphia, US. 
