@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello! I'm Emily!"
+title: "👋🏼 Hello! I'm Emily!💐"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,4 +16,5 @@ redirect_from:
 I am looking for a tenure-track assistant professor position in emerging media and technology, AI-human communication, strategic communication, media psychology, etc. 
 
 ## ✈️ Attending
-$\color{rgba(233,139,42, 1)}{\textsf{Aug 8-11, 2024.}}$ AEJMC, Philadelphia, US. 
+$\color{rgba(233,139,42, 1)}{\textsf{Aug 8-11, 2024.}}$ AEJMC, Philadelphia🏙️🔔📜, US. 
+$\color{rgba(233,139,42, 1)}{\textsf{May 11-16, 2024.}}$ CHI'24, Honolulu 🏄🏻‍♀️, US. 
