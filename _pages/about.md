@@ -15,7 +15,7 @@ redirect_from:
 ### 🔥 I am on the job market this academic year!
 I am looking for a tenure-track assistant professor position in emerging media and technology, AI-human communication, strategic communication, media psychology, etc. 
 
-## ✈️ Attending
+### ✈️ Attending
 Aug 8-11, 2024. AEJMC, Philadelphia 🔔📜, US. 
 
 May 11-16, 2024. CHI'24, Honolulu 🏄🏻‍♀️, US. 
