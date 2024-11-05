@@ -5,6 +5,13 @@ permalink: /research/
 author_profile: true
 
 ---
+<style>
+  .page-content {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+  }
+</style>
 
 My research aims to unravel the **persuasion process** of **technology and technology-mediated messages**, particularly from a social perception and cognition perspective. I have investigated how different technologies (e.g., AI, social media, phone applications) persuade people and influence **people’s interpretation of information**, **self-perceptions**, and **trust** in the technology and those who deploy such technology. Influenced by my identity as a woman and my industry experiences as a female-targeted business owner, many of my studies focus on technology users who are traditionally more vulnerable in media persuasion contexts, such as female users and the elderly. Overall, my research can be classified into answering two main areas: (1) What about the technology itself is persuasive? How do people make sense of different affordances and features of technology? (2) What do these mechanisms mean to different levels of communication in society (e.g., one-on-one messaging, organization-individual communication, mass communication effect)? Below I'll display my research work clustered into different contexts.
 
