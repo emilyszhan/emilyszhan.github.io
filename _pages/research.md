@@ -41,12 +41,3 @@ Hu, J., **Zhan, E. S. **Why Do People Unfollow Friends on WeChat? A Communicatio
 
 
 
-<nbsp>
-
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
