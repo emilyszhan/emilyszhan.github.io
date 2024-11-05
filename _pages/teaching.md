@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# 📢 Upcoming Course in 2025 Summer: JRN 429 Social Media News and Information
+## 📢 Upcoming Course in 2025 Summer: JRN 429 Social Media News and Information
 
 As people turn to social media to share ideas and connect with others, there has been great excitement but skepticism about these platforms’ role in democratizing information and allowing for more participatory news making. 
 
