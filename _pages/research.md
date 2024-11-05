@@ -38,7 +38,7 @@ Molina, M. D., **Zhan, E. S**., Agnihotri, D., Abdullah, S., & Deka, P. (2023). 
 ## How AI and technology influence interpersonal relationships
 Hu, J. M., **Zhan, E. S.** (2024). Algorithm awareness in online dating: associations with mate-searching difficulty and future expectancies among US online daters. Behaviour & Information Technology. 
 
-Hu, J., **Zhan, E. S. **Why Do People Unfollow Friends on WeChat? A Communication Authenticity Perspective. Under review.
+Hu, J., **Zhan, E. S.** Why Do People Unfollow Friends on WeChat? A Communication Authenticity Perspective. Under review.
 
 
 
