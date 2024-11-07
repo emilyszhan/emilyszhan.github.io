@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-👩🏻‍💻 I am a Ph.D. candidate in the [Information and Media PhD program](https://comartsci.msu.edu/academics/academic-departments/default/graduate/phd-information-and-media) at Michigan State University's College of Communication Arts and Sciences. 
+👩🏻‍💻 I am a Ph.D. candidate in the [Information and Media PhD program](https://comartsci.msu.edu/academics/academic-departments/default/graduate/phd-information-and-media) at Michigan State University's College of Communication Arts and Sciences. You may also see my [student page](https://comartsci.msu.edu/our-people/emily-s-zhan) at MSU.
 
-🤖 Broadly, my research focuses on two major aspects of AI. First, I study lay users’ **cognitive processes and psychological perceptions** of AI-related information, such as interactions with AI agents, AI-mediated messages, and AI-enabled relationships. Second, I explore how organizations, including commercial companies and government entities, communicate AI adoption to the public. My research informs how to communicate about using AI (e.g., interface design, accessibility cues) to designers and social entities that deploy AI (e.g., companies and governments). 
+🤖 Broadly, my research focuses on two major aspects of AI. First, I study lay users’ **cognitive processes and psychological perceptions** of AI-related information, such as interactions with AI agents, AI-mediated messages, and AI-enabled relationships. Second, I explore how **organizations**, including commercial companies and government entities, communicate AI adoption to the public. My research informs how to communicate about using AI (e.g., interface design, accessibility cues) to designers and social entities that deploy AI (e.g., companies and governments). 
 
 📱 A broader scope of my study contexts encompasses social media user behavior, crisis communication, civic participation, digital application design, and gender-focused advertising content. My research adopts a diverse range of methodologies, such as experiments, surveys, computational, and mixed-method approaches. 
 
