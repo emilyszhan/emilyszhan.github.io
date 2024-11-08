@@ -17,6 +17,9 @@ Overall, my research can be classified into answering two main areas: (1) What a
 
 Molina, M. D., Sundar, S. S., **Zhan, E. S.**, Walther, J. Assessing Perceived Credibility of Performance Metrics of AI Models. Under review.
 
+Kim, T., Molina, M. D., Rheu, M., **Zhan, E. S.**, Peng, W. (2023). [One AI Does Not Fit All: A Cluster Analysis of the Laypeople’s Perception of AI Roles.](https://dl.acm.org/doi/abs/10.1145/3544548.3581340) Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23).
+
+
 ### _Perceptions of organization's strategic use of AI_
 **Zhan, E. S**., Kim, T., Molina, M. Can AI Apologize for Organizations? Tesing two competing psychological mechanisms. Under review.
 
