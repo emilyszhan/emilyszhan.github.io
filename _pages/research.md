@@ -33,7 +33,7 @@ Zheng, Q., **Zhan, E. S.**, Dong, C., Thorson, E. The Strategy and Modality of G
 Molina, M. D., **Zhan, E. S**., Agnihotri, D., Abdullah, S., & Deka, P. (2023). [Motivation to use fitness application for improving physical activity among Hispanic users: The pivotal role of interactivity and relatedness.](https://dl.acm.org/doi/10.1145/3544548.3581200) Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23).
 
 
-# _Psychological processings and behavioral outcomes of social media use_
+# _Psychological processes and behavioral outcomes of social media use_
 **Zhan, E. S**., Hu, J. M., Song, H., Ewoldsen, D. Conceptualizing Online Disinhibition and Inhibition Through Motivation Lens. Under review.
 
 **Zhan, E. S.**, Thorson, E., Chen, W. (2023, August 7 -10). Exploring the role of personal values in civic news use and community participation. The 106th annual conference of the Association for Education in Journalism and Mass Communication (AEJMC), Washington, DC.
