@@ -22,7 +22,7 @@ I am looking for a tenure-track assistant professor position in emerging media a
 ### ✈️ Activities
 June 12-16, 2025. International Communication Association (ICA), Denver, US.
 
-🎙️ I will be presenting my paper "Can AI Apologize on the Company’s Behalf? The Role of Expectancy Violation and Perceived AI's Capability" at Capitol 6 (Regency 4) on June      14, noon session "NEKO-tiating Agency: AI Apologies, User Empowerment, and Emotional Sovereignty." Please join our session!
+🎙️ I will be presenting my paper **"Can AI Apologize on the Company’s Behalf? The Role of Expectancy Violation and Perceived AI's Capability"** at Capitol 6 (Regency 4) on June      14, noon session "NEKO-tiating Agency: AI Apologies, User Empowerment, and Emotional Sovereignty." Please join our session!
     
 March 6-9, 2025. American Academy of Advertising (AAA), Pittsburgh, US.
 
