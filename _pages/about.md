@@ -19,7 +19,12 @@ redirect_from:
 ### 🔥 I am on the job market this academic year!
 I am looking for a tenure-track assistant professor position in emerging media and technology, AI-human communication, strategic communication, media psychology, etc. 
 
-### ✈️ Attending
+### ✈️ Activities
+June 12-16, 2025. International Communication Association (ICA), Denver, US.
+    🎙️ I will be presenting my paper "Can AI Apologize on the Company’s Behalf? The Role of Expectancy Violation and Perceived AI's Capability" on June 14, noon session "NEKO-          tiating Agency: AI Apologies, User Empowerment, and Emotional Sovereignty." Please join our session!
+    
+March 6-9, 2025. American Academy of Advertising (AAA), Pittsburgh, US.
+    🏆 It was a pleasure to receive the [AAA Dissertation Grant](https://aaasite.memberclicks.net/research) from AAA this year! 
+    
 Aug 8-11, 2024. AEJMC, Philadelphia 🔔📜, US. 
-
 May 11-16, 2024. CHI'24, Honolulu 🏄🏻‍♀️, US. 
