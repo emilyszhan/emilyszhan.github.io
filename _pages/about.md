@@ -16,8 +16,6 @@ redirect_from:
 
 📱 A broader scope of my study contexts encompasses social media user behavior, crisis communication, civic participation, digital application design, and gender-focused advertising content. My research adopts a diverse range of methodologies, such as experiments, surveys, computational, and mixed-method approaches. 
 
-### 🔥 I am on the job market this academic year!
-I am looking for a tenure-track assistant professor position in emerging media and technology, AI-human communication, strategic communication, media psychology, etc. 
 
 ### ✈️ Activities
 June 12-16, 2025. International Communication Association (ICA), Denver, US.
